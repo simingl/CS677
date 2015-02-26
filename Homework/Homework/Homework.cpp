@@ -16,6 +16,10 @@ int maximum(char* array, int l, int r){
 	return v;
 }
 
+void mergesort(){
+
+}
+
 int main(int argc, char* argv[])
 {
 	char* array = "T I N Y E X A M P L E";
